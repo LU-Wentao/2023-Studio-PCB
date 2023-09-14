@@ -1,9 +1,9 @@
-# Assignment's Title
+# Assignment's Title Arduino on a board
 
-## Assignment's description
+## Assignment's description Tutorial Style: Explain the materials to your grandmother
 Describe the assignment
 
-## Documentation
+## Documentation plz document your mistakes during the course
 Describe the work you did to complete the assignment
 
 bullet point list
