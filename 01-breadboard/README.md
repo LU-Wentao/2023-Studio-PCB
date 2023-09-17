@@ -62,13 +62,13 @@ The ATmega pin number is better for hardware and the Arduino pin number is bette
 
 The crystal oscillator has a quartz inside oscillating by, for example, 16 MHz to tell the time for the chip. Both its legs need to connect to capacitors to ease the vibration the quartz made.
 
-***Ceramic Capacitors***
+***8 Ceramic Capacitors***
 
 The capacitor is a “Tank” that stores energy in the form of static electricity. Capacitors can take many forms as long as there are two conductive surfaces, called ELECTRODES, separated by an insulator. This 22 pf (picoFARAD) is a ceramic capacitor with a ceramic as the insulator and super thin metal layers at two sides.
 
 ## Arduino Ready/USB2Serial Board
 ![USB2SerialBoard](./USB2SerialBoard.jpg)
-* Add the ***USB to Serial Breakout Board*** to the Arduino breadboard circuit, to upload coding to the chip, transmitting data and recieving data by computer.
+* Add the ***9 USB to Serial Breakout Board*** to the Arduino breadboard circuit, to upload coding to the chip, transmitting data and recieving data by computer.
 * GND ->GND
 * CTS
 * VCC ->VCC
