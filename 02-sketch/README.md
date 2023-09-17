@@ -1,35 +1,42 @@
-# Assignment's Title
+# Hand-sketching Components
 
-## Assignment's description
-Describe the assignment
+## Description
+Make hand-drawn sketches of the basic electronic components used on the Arduino on a Breadboard. 
+Requirements:
+* Drawing(s) must fit on ONE **A4**-sized paper.
+* Refer to the style of naturalistic illustrations, with **sections**, **exploded** and **magnified** views.
+* Include short texts to describe **how components are made and what they are used for**.
 
 ## Documentation
-Describe the work you did to complete the assignment
 
-bullet point list
-* item one
-* item two
-* item three
+1. ***Voltage Regulator/Transistor***
+2. ***Electrolytic Capacitor***
+3. ***LED***
+4. ***Resistor***
+5. ***Chip/Microcontroller/ATmega328***
+6. ***Clock/Crystal Oscillator***
+7. ***Ceramic Capacitors***
+8. ***Pin Headers and Jumper Wires***
 
-numbered list
-1. item one
-2. item two
-3. item three
 
-**bold text**
 
-*italic text*
 
-***italic and bold text***
 
-example of an external link
 
-[description of the website](https://www.https://www.example.com/)
 
-example of a picture hosted on an external website
 
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
 
-example of a picture hosted inside your repository (don't forget the ./ operand)
 
-![picture description](./images/example.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
