@@ -18,7 +18,7 @@ Requirements:
 7. Ceramic Capacitors
 8. Pin Headers and Jumper Wires
 
-![LED Diode by Handsketch](./Handsketch_LEDdiode.jpg.jpg)
+![LED Diode by Handsketch](./Handsketch_LEDdiode.jpeg)
 
 
 
