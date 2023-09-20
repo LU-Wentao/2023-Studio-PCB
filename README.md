@@ -1,20 +1,20 @@
-# Student's documentation template
+# Student LU Wentao/Piapi
 
 ## About
-This is the main README file of your repository, rewrite it with a description of who you are, what are your interests and why you chose this Studio class.
+I am a nearly-23 years-old human, researching Design, Nature and Cultures at ecoculi lab. I joined PCB class because i am interested in what role/niche and how electronics can play between Human-Nature connective interaction.
 
 ## _
 
-### Some Markdown syntax
+### A bit more info about me :)
 
-<pre>Markdown syntax
-* bullet point list
-* bullet point list
-* bullet point list</pre>
+<pre>Food
+* i like delicious food, but no oily nor spicy, my stomach is weak :(
+* so treat me with Cantonese, Hongkongnese, Jiangzhenese food. (Cantonese tea house is great)
+* i also like tea very much, green, white, woolong, red, all good for me</pre>
 
-* bullet point list
-* bullet point list
-* bullet point list</pre>
+* no oily, no spicy
+* Cantonese, Hongkongnese, Jiangzhenese food
+* tea
 
 ## _
 
