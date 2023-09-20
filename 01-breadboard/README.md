@@ -4,7 +4,7 @@
 This one-day challenge is to build an Arduino-compatible breadboard with an Atmel Atmega328 AVR microcontroller and a set of basic electronic components based on an [Arduino Tutorial](https://docs.arduino.cc/hacking/hardware/building-an-arduino-on-a-breadboard). Then, the board is connected to input and output devices, exchanging data with the computer through serial communication. This is conceived as an "ice-breaking" activity to familiarise with various electronic components and procedures and as a reference to design later circuits.
 
 ## Adding circuitry for a power supply/Power-Basics
-![Power-Basics](./images./powerbasics.jpg)
+![Power-Basics](./powerbasics.jpg)
 * Add power and ground wires for where your voltage regulator will be. 
 * Add power and ground wires at the bottom of your board connecting each rail. 
 * Add the 7805 ***Voltage Regulator*** and the lines to power the board. 
@@ -17,7 +17,7 @@ This one-day challenge is to build an Arduino-compatible breadboard with an Atme
 
 The breadboard has connected and unconnected lines inside in two directions. See these green lines in the picture below. Breadboard can be used for very fast prototyping, but since the joints are very loose, it is unstable for any device.
 
-![Breadboardinside](./images./breadboardinside.jpg)
+![Breadboardinside](./breadboardinside.jpg)
 
 ***2 Voltage Regulator/Transistor***
 
@@ -36,7 +36,7 @@ Long leg and round side signify the positive/anode, short leg and flat side sign
 Resistor reduces the current, following th OHM's Law: V=R*I
 
 ## ATmega Basics
-![ATmega-Basics](./images./ATmegabasics.jpg)
+![ATmega-Basics](./ATmegabasics.jpg)
 * Connect a 10k ohm pullup resistor to +5V from the RESET pin in order to prevent the ***Chip*** from resetting itself during normal operation.
 * Add a 16 MHz external ***Clock*** between pin 9 and 10, and add two 22 pF ***Ceramic Capacitors*** running to ground from each of those pins.
 * Add a LED connected to pin 13 which is blinked with the blink_led program of the chip to check check whether the breadboard version Arduino works.
@@ -44,7 +44,7 @@ Resistor reduces the current, following th OHM's Law: V=R*I
 ***6 Chip/Microcontroller/ATmega328***
 
 Microcontroller is a simple, slow computer on a chip, the "Brain". The ATmega328 is an 8-bit microcontroller with the same processing power as the early generation home computers.
-![ATmegaPinMap](./images./atmegapinmap.jpeg)
+![ATmegaPinMap](./atmegapinmap.jpeg)
 
 The ATmega pin number is better for hardware and the Arduino pin number is better for Arduino coding.
 
@@ -67,7 +67,7 @@ The crystal oscillator has a quartz inside oscillating by, for example, 16 MHz t
 The capacitor is a “Tank” that stores energy in the form of static electricity. Capacitors can take many forms as long as there are two conductive surfaces, called ELECTRODES, separated by an insulator. This 22 pf (picoFARAD) is a ceramic capacitor with a ceramic as the insulator and super thin metal layers at two sides.
 
 ## Arduino Ready/USB2Serial Board
-![USB2SerialBoard](./images./USB2SerialBoard.jpg)
+![USB2SerialBoard](./USB2SerialBoard.jpg)
 * Add the ***9 USB to Serial Breakout Board*** to the Arduino breadboard circuit, to upload coding to the chip, transmitting data and recieving data by computer.
 * GND ->GND
 * CTS
@@ -77,7 +77,7 @@ The capacitor is a “Tank” that stores energy in the form of static electrici
 * DTR -> 0.1μF CCapacitor -> RESET, because the USB tansmit data faster than ATmega so need a capacitor to balance.
 
 ## Arduino Coding
-![arduinocoding](./images./arduinocoding.jpg)
+![arduinocoding](./arduinocoding.jpg)
 
 
 
