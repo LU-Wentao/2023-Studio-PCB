@@ -8,3 +8,4 @@ Pick one sensor from a collection and try it out with the prototyping breadboard
 Repeat the exercise with at least two digital and two analog sensors. Understand how the sensor works and how data is collected and used.
 
 ## Documentation
+Document the four sensors and the Arduino codes (attention: Github uses Markdown language, if you paste Arduino code here, it will be rendered by Markdown, so plz find the way to show your Arduino codes).
