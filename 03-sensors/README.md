@@ -40,7 +40,7 @@ else{
 
 **Ceramic Piezo Vibration Sensor 压电振动传感器**
 
-![Ceramic Piezo Vibration Sensor](./cceramicpiezovibrationsensor.jpg)
+![Ceramic Piezo Vibration Sensor](./ceramicpiezovibrationsensor.jpg)
 ![Ceramic Piezo Vibration Sensor show](./piezovs.jpg)
 
 Piezo Vibration Sensor is an Analog Sensor tat can tell different size of vibration, more like touching, hitting. You can see from the pictures of vibration of different sizes.
